@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.meu h1{
+    color: aqua;
+
+}
+
+.meu h1:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.meu h1{
+    text-align: center;
+    justify-content: center;
+}
+
+
+.card img{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.card img{
+    padding-top: 50px;
+    width: 30%;
+    height: 30%;
+    margin-left: 50px;
+}
+
+.cat img{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.cat img{
+    width: 30%;
+    height: 30%;
+    margin-left: 500px;
+    margin-bottom: 200px;
+}
